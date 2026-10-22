@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Do not commit raw/private data
+data/
+raw_data/
+*.csv
+*.xlsx
+*.xls
